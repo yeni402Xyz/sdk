@@ -1,0 +1,8 @@
+{
+  "name": "yeni402",
+  "version": "0.1.0",
+  "main": "cmd/server/main.js",
+  "scripts": {
+    "start": "node cmd/server/main.js"
+  }
+}
